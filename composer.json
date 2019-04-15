@@ -1,12 +1,12 @@
 {
-    "name": "kamermans/haproxy-api",
+    "name": "screncom/haproxy-api",
     "description": "PHP API for HAProxy administration",
     "type": "library",
     "license": "GPLv3",
     "keywords": [
         "haproxy"
     ],
-    "homepage": "https://github.com/kamermans/HAProxyAPI",
+    "homepage": "https://github.com/screncom/HAProxyAPI",
     "authors": [
         {
             "name": "Steve Kamerman",
