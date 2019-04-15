@@ -41,7 +41,7 @@ class Line {
 	}
 	
 	public function __get($name) {
-		return $this->data[$name];
+		return isset($this->data[$name]) ? $this->data[$name] : null;
 	}
 	
 	public function getAssoc() {
